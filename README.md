@@ -152,6 +152,11 @@ ip a
 
 ## 📸 Screenshots
 
+![image alt](https://i.imgur.com/NJtpWNE.png)
+
+![image alt](https://i.imgur.com/akRoZvr.png)
+
+
 > _Add screenshots of your Proxmox dashboard and Portainer UI here_
 
 ---
