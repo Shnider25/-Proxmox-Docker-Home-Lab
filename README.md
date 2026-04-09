@@ -165,4 +165,4 @@ MIT License — feel free to use this as a template for your own home lab.
 ## 👤 Author
 
 **Shnider**  
-Feel free to connect on [LinkedIn](#) | [GitHub](#)
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/shnider/) | [GitHub](https://github.com/Shnider25)
