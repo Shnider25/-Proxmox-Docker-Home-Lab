@@ -157,7 +157,6 @@ ip a
 ![image alt](https://i.imgur.com/akRoZvr.png)
 
 
-> _Add screenshots of your Proxmox dashboard and Portainer UI here_
 
 ---
 
